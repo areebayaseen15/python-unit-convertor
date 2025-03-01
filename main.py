@@ -4,14 +4,7 @@ import streamlit as st
 st.markdown(
     """
     <style>
-        /* Gradient Background */
-        .stApp {
-            background: linear-gradient(to right, #4facfe, #00f2fe);
-            color: white;
-            padding: 20px;
-            border-radius: 10px;
-        }
-
+        
         /* Headings */
         h1, h2, h3 {
             text-align: center;
